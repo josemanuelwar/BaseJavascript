@@ -1,0 +1,13 @@
+const nombre = "Deadpool"
+
+const real = "wade winston"
+
+const normal = nombre +" "+ real
+
+console.log(normal)
+
+console.log("--------temples--------")
+
+const template = `${1+1 `
+
+console.log(template)
